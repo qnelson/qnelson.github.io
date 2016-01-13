@@ -1,0 +1,116 @@
+body {
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	font-weight: normal;
+	background-image: url('http://goo.gl/Iz8VC2');
+	word-wrap:break-word;
+	width: 900px;
+	margin: 50px auto 50px;
+}
+
+h2, h3, h4, h5{
+	line-height: 0.2em;
+}
+
+li {
+	padding: 3px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#contact-info h1 {
+	font-weight: bold;
+	font-size: 50px;
+	text-align: left;
+	line-height: 0.4em;
+}
+
+#img {
+	position: absolute;
+	width: 240px;
+    height: auto;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	left: 57%;
+	top: 5%;
+}
+
+#contact-info h2 {
+	font-size: 20px;
+	text-align:left;
+	line-height: 0.4em;
+	width: 375px;
+	text-align: center;
+}
+
+#profile {
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	padding-top: 10px;
+	width: 375px;
+}
+
+#education {
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 40px;
+	border-bottom: 1px solid #000000;
+}
+
+#bethel h3 {	
+	font-size: 30px;
+}
+
+#experience {
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 40px;
+	border-bottom: 1px solid #000000;
+}
+
+#ywam h3{
+	font-size: 30px;
+}	
+
+#sps h3 {
+	font-size: 30px;
+}
+
+#leadership {
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 40px;
+	border-bottom: 1px solid #000000;
+}
+
+#student-activities h3 {
+	font-size: 30px;
+}
+
+#younglife h3 {
+	font-size: 30px;
+}
+
+#international {
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 40px;
+	border-bottom: 1px solid #000000;
+}
+
+#bangbang h3 {
+	font-size: 30px;
+}
+
+#nepal h3 {
+	font-size: 30px;
+}
+
+#nz h3 {
+	font-size: 30px;
+}
+
+#europe h3 {
+	font-size: 30px;
+}

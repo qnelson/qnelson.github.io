@@ -10,19 +10,25 @@ body {
 
 h2, h3, h4, h5{
 	line-height: 0.2em;
+	font-weight: normal;
 }
 
 li {
 	padding: 3px;
 	font-size: 17px;
-	font-weight: bold;
+	font-weight: normal;
 }
 
 #contact-info h1 {
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 45px;
 	text-align: left;
 	line-height: 0.4em;
+}
+
+#contact-info h2 a{
+	color: #000000;
+	
 }
 
 #img {
@@ -30,9 +36,9 @@ li {
 	width: 240px;
     height: auto;
 	border-radius: 10px;
-	border: 1px solid #000000;
-	left: 57%;
-	top: 5%;
+	box-shadow: 2px 2px 2px #000;
+	left: 54%;
+	top: 6%;
 }
 
 #contact-info h2 {
@@ -44,73 +50,21 @@ li {
 }
 
 #profile {
-	font-weight: bold;
+	font-weight: normal;
 	font-style: italic;
 	text-align: center;
 	padding-top: 10px;
 	width: 375px;
 }
 
-#education {
+#education, #experience, #leadership, #international {
 	padding-top: 10px;
 	font-weight: bold;
-	font-size: 40px;
-	border-bottom: 1px solid #000000;
+	font-size: 35px;
+	border-bottom: 2px solid #000000;
 }
 
-#bethel h3 {	
-	font-size: 30px;
+#bethel h3, #ywam h3, #sps h3, #student-activities h3, #younglife h3, #bangbang h3, #nepal h3, #nz h3, #europe h3 {	
+	font-size: 28px;
 }
 
-#experience {
-	padding-top: 10px;
-	font-weight: bold;
-	font-size: 40px;
-	border-bottom: 1px solid #000000;
-}
-
-#ywam h3{
-	font-size: 30px;
-}	
-
-#sps h3 {
-	font-size: 30px;
-}
-
-#leadership {
-	padding-top: 10px;
-	font-weight: bold;
-	font-size: 40px;
-	border-bottom: 1px solid #000000;
-}
-
-#student-activities h3 {
-	font-size: 30px;
-}
-
-#younglife h3 {
-	font-size: 30px;
-}
-
-#international {
-	padding-top: 10px;
-	font-weight: bold;
-	font-size: 40px;
-	border-bottom: 1px solid #000000;
-}
-
-#bangbang h3 {
-	font-size: 30px;
-}
-
-#nepal h3 {
-	font-size: 30px;
-}
-
-#nz h3 {
-	font-size: 30px;
-}
-
-#europe h3 {
-	font-size: 30px;
-}
